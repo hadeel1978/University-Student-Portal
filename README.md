@@ -6,7 +6,7 @@
 Aims at developing a centralized portal for educational institutions for managing student projects and To implement and evaluate the student portal infrastructure as a way of managing the delivery of flexible lifelong learning To improve the learner experience by providing easy access to a personalized collection of essential  information, 
 
 
-######Technologies used:
+######Technologies Used:
 
 * Microsoft Visual Studio 2012
 * Microsoft SQL Server 2012
