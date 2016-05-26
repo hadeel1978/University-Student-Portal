@@ -14,5 +14,4 @@ Aims at developing a centralized portal for educational institutions for managin
 * Windows Server 2012 Datacenter
 * Visual C++ Redistributable Packages for Visual Studio 2013
 * Microsoft .NET Framework 4.5
-
-![untitled](https://cloud.githubusercontent.com/assets/18006475/15267924/d2e45d94-19d7-11e6-80ff-21ec33c16e52.png)
+![studentportalusermanual](https://cloud.githubusercontent.com/assets/18006475/15560427/0497b17c-22f4-11e6-8a68-475c3d3f1aa3.jpg)
